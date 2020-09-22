@@ -3,8 +3,8 @@ body{
   margin: 2;
 }
 a:link, a:visited {
-  color: white;
+  color: black;
 }
 a:hover, a:active {
-  color: black;
+  color: white;
 }
