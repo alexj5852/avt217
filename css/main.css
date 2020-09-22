@@ -5,6 +5,7 @@ html{
 body{
   background-color: maroon;
   margin: 2;
+  text-align: center;
 }
 h1{
   font-size: 2rem;
