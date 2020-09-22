@@ -1,8 +1,6 @@
-html{
-  font-soze: 30px:
-}
 
 body{
+  font-size: 40px;
   background-color: maroon;
   margin: 2;
   text-align: center;
@@ -13,7 +11,7 @@ h1{
 a:link, a:visited {
   color: black;
 }
-a:hover, a:active {
+a:hover {
   color: black;
 }
 li{
