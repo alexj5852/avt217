@@ -1,4 +1,7 @@
 body{
-  background-color: tomato;
+  background-color: maroon;
   margin: 2;
+}
+a:link, a:visited {
+  color: white;
 }
