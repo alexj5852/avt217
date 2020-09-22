@@ -1,10 +1,20 @@
+html{
+  font-soze: 30px:
+}
+
 body{
   background-color: maroon;
   margin: 2;
+}
+h1{
+  font-size: 2rem;
 }
 a:link, a:visited {
   color: black;
 }
 a:hover, a:active {
   color: white;
+}
+li{
+  font-size: 2rem;
 }
