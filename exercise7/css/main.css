@@ -1,0 +1,35 @@
+body{
+  background-color: rgb(16, 0, 118);
+  text-align: center;
+}
+
+p, li{
+  font-family: 'Comfortaa', cursive;
+  color: rgb(92, 175, 238);
+  text-align: center;
+  font-size: 25;
+
+}
+
+h1{
+   font-family: 'Abril Fatface', cursive;
+   color: white;
+   text-align: center;
+   font-size:45 ;
+
+}
+
+h2{
+  font-family: 'Comfortaa', cursive;
+  color: rgb(127, 228, 253);
+  text-align: center;
+  font-size: 35;
+}
+
+h3{
+  font-family: 'Abril Fatface', cursive;
+  color: rgb(127, 228, 253);
+  text-align: center;
+  font-size: 30;
+
+}
