@@ -4,6 +4,9 @@
 
 body {
   margin: 0;
+  background-color: black;
+  font-size: 30px;
+  font-family: 'Sansita Swashed', cursive;
 }
 main{
 
@@ -12,7 +15,7 @@ main{
 div{
   width: 150px;
   height: 150px;
-  background-color: purple;
+  background-color: blueviolet;
   margin: 25px;
   float: left;
 }
@@ -34,7 +37,7 @@ div{
 .shape4{
   width: 50px;
   height: 90px;
-  border-color: maroon;
+  border-color: chartreuse;
   margin: -56px -39px;
   float: left;
   border-left: 50px solid transparent;
@@ -44,7 +47,7 @@ div{
 .shape5{
   width: 4;
   height: 10;
-  background-color: green;
+  background-color: cornflowerblue;
   margin: 30px;
   float: left;
   transform: skew(20deg);
@@ -71,5 +74,5 @@ div{
   border-top-right-radius: 60px;
   border-bottom-left-radius: 60px;
   border-bottom-right-radius: 60px;
-  background-color: navy;
+  background-color: crimson;
 }
