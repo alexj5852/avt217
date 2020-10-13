@@ -21,5 +21,23 @@ div{
   height: 75;
   background-color: orange;
   margin: 50px 20px;
-  
+
+}
+.shape3{
+  width: 200px;
+  height: 200px;
+  background-color: hotpink;
+  margin: 4px;
+  float: left;
+  border-radius: 50%;
+}
+.shape4{
+  width: 50px;
+  height: 90px;
+  border-color: maroon;
+  margin: -56px -39px;
+  float: left;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid red;
 }
