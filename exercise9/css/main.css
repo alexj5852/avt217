@@ -10,10 +10,10 @@ body {
   text-align: center;
 }
 a:link, a:visited {
-  color: black;
+  color: white;
 }
 a:hover {
-  color: white;
+  color: mediumspringgreen;
 }
 main{
 
