@@ -41,3 +41,11 @@ div{
   border-right: 50px solid transparent;
   border-bottom: 100px solid red;
 }
+.shape5{
+  width: 4;
+  height: 10;
+  background-color: green;
+  margin: 30px;
+  float: left;
+  transform: skew(20deg);
+}
