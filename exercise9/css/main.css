@@ -7,9 +7,15 @@ body {
   background-color: black;
   font-size: 30px;
   font-family: 'Sansita Swashed', cursive;
+  text-align: center;
+}
+a:link, a:visited {
+  color: black;
+}
+a:hover {
+  color: white;
 }
 main{
-
 
 }
 div{
