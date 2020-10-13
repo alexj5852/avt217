@@ -9,6 +9,10 @@ body {
   font-family: 'Sansita Swashed', cursive;
   text-align: center;
 }
+h1{
+  font-size: 50px;
+  color: white;
+}
 a:link, a:visited {
   color: white;
 }
