@@ -17,6 +17,9 @@ h1{
 a:hover {
   color: mediumspringgreen;
 }
+a:link, a:visited {
+  color: white;
+}
 main{
 
 }
