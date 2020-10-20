@@ -1,24 +1,35 @@
 
 body{
-  font-size: 58px;
   font-family: 'New Rocker', cursive;
   background-color: crimson;
-  margin: 2;
+  text-align: center;
+
+}
+
+h1{
+  font-size: 70px;
+  font-family: 'New Rocker', cursive;
+  color: white;
   text-align: center;
 }
-h1{
+h2{
   font-size: 50px;
+  font-family: 'Krona One', sans-serif;
 }
+
 a:link, a:visited {
-  color: black;
+  color: white;
 }
+
 a:hover {
   color: white;
 }
+
 li{
   font-size: 30px;
   margin-bottom:10px;
 }
+
 ul{
   list-style-type: none;
   margin: 0;
