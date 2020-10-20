@@ -7,7 +7,7 @@ body{
   text-align: center;
 }
 h1{
-  font-size: 75px;
+  font-size: 50px;
 }
 a:link, a:visited {
   color: black;
@@ -16,7 +16,7 @@ a:hover {
   color: white;
 }
 li{
-  font-size: 50px;
+  font-size: 30px;
   margin-bottom:10px;
 }
 ul{
