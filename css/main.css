@@ -7,7 +7,7 @@ body{
 }
 
 h1{
-  font-size: 70px;
+  font-size: 80px;
   font-family: 'New Rocker', cursive;
   color: white;
   text-align: center;
@@ -15,6 +15,7 @@ h1{
 h2{
   font-size: 50px;
   font-family: 'Krona One', sans-serif;
+  text-align: left;
 }
 
 a:link, a:visited {
@@ -34,4 +35,11 @@ ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+@media screen and (max-width: 900px){
+  .col{
+    width: 50%;
+    float: left;
+    padding: 0 25;
+  }
 }
