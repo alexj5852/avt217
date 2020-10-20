@@ -17,13 +17,14 @@ h1{
   font-family: 'New Rocker', cursive;
   color: white;
   text-align: center;
-  text-shadow: 10px 10px firebrick;
+  text-shadow: 10px 10px black;
 }
 h2{
   font-size: 50px;
   font-family: 'Krona One', sans-serif;
   font-weight: bold;
   text-decoration: underline;
+  color: firebrick;
 }
 
 a:link, a:visited {
@@ -41,6 +42,7 @@ li{
   margin-bottom:10px;
   font-family: 'Krona One', sans-serif;
   text-decoration: none;
+  font-weight: lighter;
 
 }
 
