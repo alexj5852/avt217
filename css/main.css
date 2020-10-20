@@ -1,7 +1,9 @@
 
 body{
   font-family: 'New Rocker', cursive;
-  background-color: crimson;
+  background-image: url("../images/website.png");
+  background-position: center;
+  background-size: cover;
   text-align: center;
   margin-left: auto;
 
