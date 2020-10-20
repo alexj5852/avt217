@@ -5,7 +5,10 @@ body{
   text-align: center;
 
 }
-
+.col{
+  width: 50%;
+  float: left;
+}
 h1{
   font-size: 80px;
   font-family: 'New Rocker', cursive;
@@ -41,8 +44,16 @@ ul{
 }
 @media screen and (max-width: 900px){
   .col{
-    width: 50%;
+    width: 100%;
     float: left;
-    padding: 0 25;
+  }
+  header{
+    width: 90vw;
+  }
+  main{
+    width:90vw;
+  }
+  h1{
+    font-size: 3rem;
   }
 }
