@@ -15,6 +15,7 @@ h1{
   font-family: 'New Rocker', cursive;
   color: white;
   text-align: center;
+  text-shadow: 2px 2px firebrick;
 }
 h2{
   font-size: 50px;
@@ -35,7 +36,8 @@ li{
   font-size: 30px;
   margin-bottom:10px;
   font-family: 'Krona One', sans-serif;
-  text-align: left;
+  text-decoration: none;
+
 }
 
 ul{
