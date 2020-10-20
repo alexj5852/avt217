@@ -1,27 +1,23 @@
 *{
   box-sizing: border-box;
 }
-body{
+
+body {
   margin: 0;
-  background-color: darkcyan;
+  background-color: black;
   font-size: 30px;
   font-family: 'Sansita Swashed', cursive;
   text-align: center;
 }
-
 h1{
   font-size: 50px;
   color: white;
-
-}
-a:hover {
-  color: mediumspringgreen;
 }
 a:link, a:visited {
   color: white;
 }
-main{
-
+a:hover {
+  color: mediumspringgreen;
 }
 .board{
   width: 900px;
