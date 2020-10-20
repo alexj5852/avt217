@@ -15,21 +15,23 @@ h1{
   font-family: 'New Rocker', cursive;
   color: white;
   text-align: center;
-  text-shadow: 2px 2px firebrick;
+  text-shadow: 6px 6px firebrick;
 }
 h2{
   font-size: 50px;
   font-family: 'Krona One', sans-serif;
-  text-align: left;
   font-weight: bold;
+  text-decoration: underline;
 }
 
 a:link, a:visited {
   color: white;
+  text-decoration: none;
 }
 
 a:hover {
   color: white;
+  text-decoration: none;
 }
 
 li{
