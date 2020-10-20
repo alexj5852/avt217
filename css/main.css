@@ -16,6 +16,7 @@ h2{
   font-size: 50px;
   font-family: 'Krona One', sans-serif;
   text-align: left;
+  font-weight: bold;
 }
 
 a:link, a:visited {
@@ -29,6 +30,8 @@ a:hover {
 li{
   font-size: 30px;
   margin-bottom:10px;
+  font-family: 'Krona One', sans-serif;
+  text-align: left;
 }
 
 ul{
