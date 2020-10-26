@@ -19,6 +19,8 @@ a:link, a:visited {
 a:hover {
   color: mediumspringgreen;
 }
+
+
 .board{
   width: 900px;
   background-color: white;
@@ -37,4 +39,35 @@ a:hover {
 }
 .red{
   background-color: crimson;
+}
+
+
+.board2{
+  width: 1000;
+  background-color: black;
+  padding: 50px;
+  display: flow-root;
+  margin-left: auto;
+  margin-right: auto;
+}
+.thick{
+  width: 950px;
+  height: 150px;
+  padding: 10px;
+  float: left;
+  background-color: blueviolet;
+}
+.thin{
+  width: 950px;
+  height: 50px;
+  padding: 10px;
+  float: left;
+  background-color: blueviolet;
+}
+.fat{
+  width: 300px;
+  height: 500px;
+  margin-left: 25px;
+  float: left;
+  background-color: blueviolet
 }
