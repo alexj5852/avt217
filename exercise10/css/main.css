@@ -43,7 +43,7 @@ a:hover {
 
 
 .layout{
-  width: 950px;
+  width: 1000px;
   background-color: white;
   padding: 50px;
   display: flow-root;
@@ -51,14 +51,14 @@ a:hover {
   margin-right: auto;
 }
 .header{
-  width: 950px;
+  width: 1000px;
   height: 150px;
   margin: 25px;
   float: left;
   background-color: blueviolet;
 }
 .subheading{
-  width: 950px;
+  width: 1000px;
   height: 50px;
   padding: 10px;
   float: left;
