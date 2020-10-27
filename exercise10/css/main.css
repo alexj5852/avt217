@@ -74,6 +74,12 @@ a:hover {
   float: left;
   background-color: blueviolet
 }
+.column-r{
+  width: 250px;
+  height: 500px;
+  float: left;
+  background-color: blueviolet
+}
 
 
 
