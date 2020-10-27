@@ -78,6 +78,7 @@ a:hover {
   width: 250px;
   height: 500px;
   float: left;
+  margin-left: 25;
   background-color: blueviolet
 }
 
