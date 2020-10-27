@@ -81,6 +81,7 @@ a:hover {
   width: 1000px;
   padding: 50px;
   display: flow-root;
+  float: left;
   margin: auto;
 }
 .head{
