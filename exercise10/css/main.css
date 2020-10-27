@@ -44,7 +44,6 @@ a:hover {
 
 .layout{
   width: 1000px;
-  background-color: white;
   padding: 50px;
   display: flow-root;
   margin-left: auto;
@@ -75,3 +74,39 @@ a:hover {
   float: left;
   background-color: blueviolet
 }
+
+
+
+.blog{
+  width: 900px;
+  padding: 50px;
+  display: flow-root;
+  margin: auto;
+}
+.head{
+  width: 1000px;
+  height: 150px;
+  margin: 100px;
+  float: left;
+  background-color: deeppink;
+}
+.body{
+  width: 750px;
+  height: 600px;
+  margin: 25px;
+  float: left;
+  background-color: deeppink;
+}
+.side{
+  width: 250px;
+  height: 300px;
+  margin: auto;
+  float: left;
+  background-color: deeppink
+}
+.foot{
+  width: 1000px;
+  height: 150px;
+  margin: 100px;
+  float: left;
+  background-color: deeppink;}
