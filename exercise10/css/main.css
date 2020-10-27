@@ -100,7 +100,7 @@ a:hover {
 .side{
   width: 250px;
   height: 300px;
-  margin: auto;
+  margin-left: 25px;
   float: left;
   background-color: deeppink
 }
