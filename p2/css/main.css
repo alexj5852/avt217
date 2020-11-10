@@ -1,6 +1,17 @@
+*{
+  box-sizing:border-box;
+}
 body{
-  background-color: black;
+  background-color: orange;
+  margin: 0;
   align-content: center;
+}
+img{
+  width: 100%;
+}
+header{
+  padding: 50px;
+  background-color: blue;
 }
 h1{
   font-size: 100px;
@@ -15,7 +26,29 @@ a:hover {
   color: white;
   text-decoration: none;
 }
+nav{
+  float: right;
+}
+.title{
+  float: left;
+}
+.title p{
+  margin: 0;
+}
+.hero{
+  background: url(../img/1.jpeg) no-repeat center center;
+  background-size: cover;
+  pagging: 300px 0;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
 li{
   font-size: 25px;
   color: white;
+  float: left;
+  margin-left: 25px;
+
 }
