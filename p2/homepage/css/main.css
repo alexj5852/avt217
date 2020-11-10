@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+  align-content: center;
+}
+h1{
+  font-size: 100px;
+  color: white;
+}
+a:link, a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+li{
+  font-size: 25px;
+  color: white;
+}
