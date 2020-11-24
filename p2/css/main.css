@@ -31,6 +31,8 @@ nav{
 }
 .title{
   float: left;
+  font-size: 25px;
+  color: white;
 }
 .title p{
   margin: 0;
