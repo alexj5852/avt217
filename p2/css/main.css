@@ -16,12 +16,12 @@ header{
 h1{
   font-size: 50px;
   color: white;
+  text-align: center;
 }
 a:link, a:visited {
   color: white;
   text-decoration: none;
 }
-
 a:hover {
   color: white;
   text-decoration: none;
