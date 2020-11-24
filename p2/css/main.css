@@ -34,6 +34,8 @@ nav{
 }
 .title p{
   margin: 0;
+  font-size: 25px;
+  color: white;
 }
 .hero{
   background: url(../img/1.jpeg) no-repeat center center;
