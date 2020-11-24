@@ -13,12 +13,13 @@ img{
 }
 header{
   padding: 50px;
-  
+
 }
 h1{
   font-size: 50px;
   color: white;
   text-align: center;
+  margin-top: auto;
 }
 a:link, a:visited {
   color: white;
