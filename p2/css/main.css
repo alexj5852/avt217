@@ -56,5 +56,9 @@ li{
   color: white;
   float: left;
   margin-left: 25px;
-
+}
+div{
+  font-size: 25px;
+  color: white;
+  margin: 0;
 }
