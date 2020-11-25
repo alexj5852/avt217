@@ -1,12 +1,15 @@
 *{
   box-sizing:border-box;
 }
+#home{background-image: url("../images/1.jpeg");
+background-position: center;
+background-size: auto;
+margin: 0;
+align-content: center;
+
+}
 body{
-  background-image: url("../images/1.jpeg");
-  background-position: center;
-  background-size: auto;
-  margin: 0;
-  align-content: center;
+  
 }
 img{
   width: 100%;
