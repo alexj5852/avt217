@@ -55,15 +55,15 @@ ul{
   list-style-type: none;
 }
 li{
-  font-size: 25px;
-  color: white;
+  font-size: 40px;
+  color: darkturquoise;
   float: left;
   margin-left: 25px;
   font-family: 'Denk One', sans-serif;
 }
 div{
-  font-size: 25px;
-  color: white;
+  font-size: 40px;
+  color: darkturquoise;
   margin: 0;
   font-family: 'Denk One', sans-serif;
 }
