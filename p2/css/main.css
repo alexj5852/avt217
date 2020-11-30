@@ -20,7 +20,7 @@ h1{
   color: darkred;
   text-align: center;
   margin-top: 300px;
-  text-shadow: 7px 7px 10px darkorange;
+  text-shadow: 7px 7px 10px darkturquoise;
 }
 a:link, a:visited {
   color: white;
