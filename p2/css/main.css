@@ -41,8 +41,8 @@ nav{
 }
 .title p{
   margin: 0;
-  font-size: 25px;
-  color: white;
+  font-size: 40px;
+  color: darkturquoise;
 }
 .hero{
   background: url(../img/1.jpeg) no-repeat center center;
