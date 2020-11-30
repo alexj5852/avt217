@@ -23,7 +23,7 @@ h1{
   text-shadow: 7px 7px 10px darkturquoise;
 }
 a:link, a:visited {
-  color: darkviolet;
+  color: darkturquoise;
   text-decoration: none;
 }
 a:hover {
@@ -36,17 +36,17 @@ nav{
 .title{
   float: left;
   font-size: 25px;
-  color: darkviolet;
+  color: darkturquoise;
   margin: 0;
   font-family: 'Denk One', sans-serif;
-  text-shadow: 2px 2px 5px white;
+  text-shadow: 4px 4px 7px darkred;
 }
 .title p{
   margin: 0;
   font-size: 40px;
-  color: darkviolet;
+  color: darkturquoise;
   font-family: 'Denk One', sans-serif;
-  text-shadow: 2px 2px 5px white;
+  text-shadow: 4px 4px 7px darkred;
 }
 .hero{
   background: url(../img/1.jpeg) no-repeat center center;
@@ -60,16 +60,16 @@ ul{
 }
 li{
   font-size: 40px;
-  color: darkviolet;
+  color: darkturquoise;
   float: left;
   margin-left: 25px;
   font-family: 'Denk One', sans-serif;
-  text-shadow: 2px 2px 5px white;
+  text-shadow: 24px 4px 7px darkred;
 }
 div{
   font-size: 40px;
-  color: darkviolet;
+  color: darkturquoise;
   margin: 0;
   font-family: 'Denk One', sans-serif;
-  text-shadow: 2px 2px 5px white;
+  text-shadow: 4px 4px 7px darkred;
 }
