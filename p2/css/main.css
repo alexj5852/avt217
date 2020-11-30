@@ -16,10 +16,11 @@ header{
 }
 h1{
   font-family: 'Metal Mania', cursive;
-  font-size: 175px;
-  color: red;
+  font-size: 250px;
+  color: darkred;
   text-align: center;
   margin-top: 300px;
+  text-shadow: 7px 7px 10px darkorange;
 }
 a:link, a:visited {
   color: white;
